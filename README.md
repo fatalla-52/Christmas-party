@@ -25,8 +25,8 @@
             font-size: small;
         }
         img {
-            max-width: 100%;
-            height: auto;
+            width="100";
+            height="100";
         }
     </style>
 </head>
@@ -37,14 +37,14 @@
     </header>
 
     <section>
-        <img src="christmas_image.jpg" alt="Christmas Party Image">
+        <img src=".//christmas image.jpg" alt="Christmas Party Image">
     </section>
 
     <section>
-        <h2>Date: December 24, 2024</h2>
-        <h2>Time: 7:00 PM - 11:00 PM</h2>
-        <h2>Location: Room 101</h2>
-        <p>Join us for a night of fun, games, and holiday cheer. Bring a gift for the gift exchange!</p>
+        <h2>Date: December 20, 2025</h2>
+        <h2>Time: 5:00 PM - 9:00 PM</h2>
+        <h2>Location: Unida Christian Collages at Room 404</h2>
+        <p>Join us for a night of fun, games, food and bring a gift for the gift exchange. Don't forget to wear your best holiday outfit!</p>
     </section>
 
     <footer>
