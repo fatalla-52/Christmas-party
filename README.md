@@ -45,7 +45,7 @@
         <h2>Date: December 20, 2025</h2>
         <h2>Time: 5:00 PM - 09:00 PM</h2>
         <h2>Location: Unida Christian Collage School at Room 202</h2>
-        <p>Join us for a Day of fun, games, delicious food and bring a gift for our gift exchange!. Don't forget to wear your best holiday outfit!</p>
+        <p>Join us for a Day of fun, games, delicious food and bring a gift for our gift exchange. Don't forget to wear your best holiday outfit!</p>
         <
     </section>
 
