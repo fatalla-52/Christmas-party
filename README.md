@@ -25,15 +25,15 @@
             font-size: small;
         }
         img {
-            width="100";
-            height="100";
+            width="50";
+            height="80";
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>You're Invited! Class Christmas Party</h1>
+        <h1>You're Invited to our Class Christmas Party</h1>
     </header>
 
     <section>
