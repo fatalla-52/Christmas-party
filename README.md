@@ -6,8 +6,8 @@
     <title>Christmas Party!</title>
     <style>
         img {
-            max-width: 100%;
-            height: auto;
+            width="100"
+            heigth="100"
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
@@ -38,7 +38,7 @@
     </header>
 
     <section>
-        <img src="jpg" alt="Christmas Party Image">
+        <img src="santa claus.jpg" alt="santa claus">
     </section>
 
     <section>
