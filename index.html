@@ -37,7 +37,7 @@
     </header>
 
     <section>
-        <img src=".//Christmas partyyy.jpg" alt="Christmas Party">
+        <img src=".//Merry Christmas partyyy.jpg" alt="Christmas Party">
     </section>
 
     <section>
