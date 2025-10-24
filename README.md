@@ -1,22 +1,19 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=divice-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Christmas Party!</title>
     <style>
-        img {
-            width="100"
-            heigth="100"
         body {
             font-family: Arial, sans-serif;
-            background-color: #F08787;
+            background-color: #f0f0f0;
             text-align: center;
             margin: 20px;
         }
         header {
-            background-color: #F2D8D8;
-            color: #456882;
+            background-color: #0077cc;
+            color: white;
             padding: 10px;
             border-radius: 5px;
         }
@@ -27,7 +24,9 @@
             margin-top: 20px;
             font-size: small;
         }
-
+        img {
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </head>
@@ -38,20 +37,20 @@
     </header>
 
     <section>
-        <img src="santa claus.jpg" alt="santa claus">
+        <img src="christmas_image.jpg" alt="Christmas Party Image">
     </section>
 
     <section>
-        <h2>Date: December 20, 2025</h2>
-        <h2>Time: 5:00 PM - 09:00 PM</h2>
-        <h2>Location: Unida Christian Collage School at Room 202</h2>
-        <p>Join us for a Day of fun, games, delicious food and bring a gift for our gift exchange. Don't forget to wear your best holiday outfit!</p>
+        <h2>Date: December 24, 2024</h2>
+        <h2>Time: 7:00 PM - 11:00 PM</h2>
+        <h2>Location: Room 101</h2>
+        <p>Join us for a night of fun, games, and holiday cheer. Bring a gift for the gift exchange!</p>
     </section>
 
     <footer>
-        <p>Hosted by Your Class President</p>
+        <p>Hosted by Your Class/Section</p>
     </footer>
 
 </body>
 </html>
-
+Write
