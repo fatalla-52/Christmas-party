@@ -25,8 +25,8 @@
             font-size: small;
         }
         img {
-            width="50";
-            height="80";
+            width="350";
+            height="350";
         }
     </style>
 </head>
@@ -37,7 +37,7 @@
     </header>
 
     <section>
-        <img src=".//christmas image.jpg" alt="Christmas Party Image">
+        <img src=".//Christmas partyyy.jpg" alt="Christmas Party">
     </section>
 
     <section>
