@@ -7,15 +7,15 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #BF092F;
             text-align: center;
             margin: 20px;
         }
         header {
-            background-color: #0077cc;
-            color: white;
+            background-color: #ABE7B2;
+            color: #000000;
             padding: 10px;
-            border-radius: 5px;
+           
         }
         section {
             margin-top: 20px;
@@ -48,7 +48,7 @@
     </section>
 
     <footer>
-        <p>Hosted by Your Class/Section</p>
+        <p>Hosted by Your Class President</p>
     </footer>
 
 </body>
