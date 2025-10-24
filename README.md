@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=divice-width, initial-scale=1.0">
     <title>Christmas Party!</title>
     <style>
+        img {
+            max-width: 100%;
+            height: auto;
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
@@ -24,9 +27,7 @@
             margin-top: 20px;
             font-size: small;
         }
-        img {
-            max-width: 100%;
-            height: auto;
+
         }
     </style>
 </head>
@@ -37,20 +38,21 @@
     </header>
 
     <section>
-        <img src="christmas_image.jpg" alt="Christmas Party Image">
+        <img src="jpg" alt="Christmas Party Image">
     </section>
 
     <section>
-        <h2>Date: December 24, 2024</h2>
-        <h2>Time: 7:00 PM - 11:00 PM</h2>
-        <h2>Location: Room 101</h2>
-        <p>Join us for a night of fun, games, and holiday cheer. Bring a gift for the gift exchange!</p>
+        <h2>Date: December 20, 2025</h2>
+        <h2>Time: 5:00 PM - 09:00 PM</h2>
+        <h2>Location: Unida Christian Collage School at Room 202</h2>
+        <p>Join us for a Day of fun, games, delicious food and bring a gift for our gift exchange!. Don't forget to wear your best holiday outfit!</p>
+        <
     </section>
 
     <footer>
-        <p>Hosted by Your Class/Section</p>
+        <p>Hosted by Your Class President</p>
     </footer>
 
 </body>
 </html>
-Write to Angie Fatalla
+
